@@ -1,0 +1,11 @@
+[package]
+name = "trashery"
+version = "0.1.0"
+edition = "2021"
+authors = ["Valerii Lysenko <vallyscode@gmail.com>"]
+description = "Code grepping tool"
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["code", "grepping"]
+
+[dependencies]
