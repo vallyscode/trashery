@@ -1,0 +1,2 @@
+# trashery
+Code grepping tool
